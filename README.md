@@ -17,8 +17,8 @@ I had an useless "On Air" sign hanging around my home, and I thought it would be
 1) Connect all the electronics following this schematics:
 ![Schematics](https://user-images.githubusercontent.com/98014322/150107798-017aae22-c95d-4c71-9a9a-f622058a4081.png)
 2) Flash the ESP8266 with nodemcu firmware (you can build and download one at https://nodemcu-build.com/)
-3) Insert your Adafruit.io and WiFi credentials in main.cpp
-4) Create a Feed in Adafruit.io
+3) Create a Feed in Adafruit.io
+4) Insert your Adafruit.io and WiFi credentials in main.cpp, and also change the feed name
 5) Create a new project in [Google Apps Scripts](https://script.google.com/home), add Google Calendar API in Services and paste the code found Code.gs, updating the Adafruit.io credentials and feed name
 6) Also in Apps Scripts create a new Trigger, which runs the getEvents function every minute
 7) Enjoy!!
