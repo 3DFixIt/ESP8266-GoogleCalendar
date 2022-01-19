@@ -1,7 +1,7 @@
 # ESP8266-GoogleCalendar
 
 ## Intro
-I had an useless "On Air" sign hanging around my home, and I thought it would be cool to connect it to my Google Calendar to show other (my kids) that I'm in a meeting and they should not enter in my studio. So I got an ESP8266, some wires and connected it to Adafruit.io and Google Apps Scripts to make this happen.
+I had an useless "On Air" sign hanging around my home, and I thought it would be cool to connect it to my Google Calendar to show other (my kids) that I'm in a meeting and they should not enter in my studio. So I got an ESP8266, 3D printed a custom back panel to hold it, connected some wires and coded everything with Adafruit.io and Google Apps Scripts to make this happen.
 
 [<img width="300" alt="Schermata 2022-01-19 alle 11 37 03" src="https://user-images.githubusercontent.com/98014322/150114298-d806b88a-ad6f-47d3-bb1c-7ff44835d71d.png">](https://youtu.be/VasNaynK-AI)
 
