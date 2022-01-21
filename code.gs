@@ -11,6 +11,8 @@ function getEvents() {
     if(!!filteredEvents[0]){ 
       if(now >= filteredEvents[0].getStartTime() && now <= filteredEvents[0].getEndTime()){
         sendData("ON");
+      } else{
+        sendData("OFF");
       }
     }else{
       sendData("OFF");
